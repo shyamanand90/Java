@@ -1,4 +1,4 @@
-package com.java.first;
+package com.java.patterns;
 import java.util.Scanner;
 public class PatternTriangle {
 
